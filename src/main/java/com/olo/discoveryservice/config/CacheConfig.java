@@ -1,4 +1,4 @@
-package com.example.discoveryservice.config;
+package com.olo.discoveryservice.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
