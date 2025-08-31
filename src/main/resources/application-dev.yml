@@ -6,8 +6,8 @@ spring:
     name: discovery-service
   security:
     user:
-      name: ${USERNAME_}
-      password: ${PASSWORD_}
+      name: ${USERNAME}
+      password: ${PASSWORD}
 
 eureka:
   instance:
